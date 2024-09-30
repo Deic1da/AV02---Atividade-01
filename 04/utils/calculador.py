@@ -1,5 +1,3 @@
-# utils/calculador.py
-
 def Calculador(equacao):
     operadores = "+-*/"
     resultado = None
